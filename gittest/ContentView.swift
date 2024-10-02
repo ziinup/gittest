@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  gittest
 //
-//  Created by 진희태 on 2024/10/02.
+//  Created by ziinup on 2024/10/02.
 //
 
 import SwiftUI
